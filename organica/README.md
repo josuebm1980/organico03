@@ -16,4 +16,4 @@ Responsivo para todos os dispositivos, construa usando HTML, CSS e JavaScript.
 
 ### License
 
-This project is **free to use** and does not contains any license.
+Este projeto é de uso gratuito e não contém nenhuma licença.
